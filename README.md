@@ -1,5 +1,8 @@
 # GoodbyeDPI Launcher with Hidden Window
 
+![image](https://github.com/user-attachments/assets/d6f641eb-dd2f-49cb-b572-e325642a1c15)
+
+
 This project provides a simple and effective solution to run [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI) in the background with a hidden window. The provided batch script leverages PowerShell to execute GoodbyeDPI silently, avoiding unnecessary command prompt windows while maintaining functionality.
 
 ## Features
@@ -57,3 +60,26 @@ This script is provided under the MIT License. See the [LICENSE](LICENSE) file f
 ---
 
 Feel free to contribute or suggest improvements to this project!
+
+
+# GoodbyeDPI Launcher ve Gizli Pencere
+
+Bu proje, [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)'yi arka planda gizli bir pencerede çalıştırmak için bir launcher sağlar. Sağlanan betik, GoodbyeDPI'yi komut istemi penceresi olmadan sessiz bir şekilde çalıştırmak için PowerShell kullanır. Bu sayede, DPI tabanlı sansürleri aşarken herhangi bir komut penceresi görüntülenmez.
+
+## Özellikler
+- **GoodbyeDPI'yi Sessiz Çalıştırma**: Betik, GoodbyeDPI'yi komut istemi penceresi göstermeden arka planda çalıştırır.
+- **Otomatik Mimari Tespiti**: Sistem mimarisini (x86 veya x64) otomatik olarak tespit eder ve uygun GoodbyeDPI sürümünü çalıştırır.
+- **Özelleştirilebilir DNS Parametreleri**: DNS ayarlarını ihtiyacınıza göre kolayca değiştirebilirsiniz.
+
+## Nasıl Çalışır
+Betiğin, GoodbyeDPI'yi sessizce çalıştırmak için batch betiği ve PowerShell kombinasyonu kullanılır:
+1. Sistem mimarisini (x86 veya x64) tespit eder.
+2. GoodbyeDPI'nin bulunduğu uygun dizine geçer.
+3. PowerShell'in `Start-Process` komutunu kullanarak GoodbyeDPI'yi belirtilen parametrelerle gizli modda çalıştırır.
+
+## Kullanım
+- Goodbyedpi indirdikten sonra github'a yüklemiş olduğum bat dosyasını goodbyedpi'ın dosya konumuna atıp çalıştırın.
+- Kapatmak isterseniz görev yöneticisinden bulup kapatabilirsiniz.
+![image](https://github.com/user-attachments/assets/05f6c053-70d1-43ab-af0b-4f0074bcd8aa)
+
+
