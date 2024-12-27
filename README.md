@@ -1,4 +1,4 @@
-# GoodbyeDPI Launcher with Hidden Window
+# GoodbyeDPI Background Process
 
 ![image](https://github.com/user-attachments/assets/d6f641eb-dd2f-49cb-b572-e325642a1c15)
 
@@ -62,7 +62,9 @@ This script is provided under the MIT License. See the [LICENSE](LICENSE) file f
 Feel free to contribute or suggest improvements to this project!
 
 
-# GoodbyeDPI Launcher ve Gizli Pencere
+
+
+![image](https://github.com/user-attachments/assets/f7010ffa-56f3-4bd0-8fee-a61c94b89181) # GoodbyeDPI Arka Planda Kullanma | Terminal Penceresi Gözükmez
 
 Bu proje, [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)'yi arka planda gizli bir pencerede çalıştırmak için bir launcher sağlar. Sağlanan betik, GoodbyeDPI'yi komut istemi penceresi olmadan sessiz bir şekilde çalıştırmak için PowerShell kullanır. Bu sayede, DPI tabanlı sansürleri aşarken herhangi bir komut penceresi görüntülenmez.
 
