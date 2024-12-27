@@ -57,12 +57,9 @@ POPD
 ## License
 This script is provided under the MIT License. See the [LICENSE](LICENSE) file for details.
 
----
-
 Feel free to contribute or suggest improvements to this project!
 
-
-
+---
 
 # <img src="https://github.com/user-attachments/assets/f7010ffa-56f3-4bd0-8fee-a61c94b89181" width="30" height="20"> GoodbyeDPI Arka Planda Kullanma | Terminal Penceresi Gözükmez
 
