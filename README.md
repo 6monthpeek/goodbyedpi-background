@@ -64,8 +64,7 @@ Feel free to contribute or suggest improvements to this project!
 
 
 
-# GoodbyeDPI Arka Planda Kullanma | Terminal Penceresi Gözükmez
-![Türk Bayrağı](https://github.com/user-attachments/assets/f7010ffa-56f3-4bd0-8fee-a61c94b89181) <img src="https://github.com/user-attachments/assets/f7010ffa-56f3-4bd0-8fee-a61c94b89181" width="30" height="20"> 
+# <img src="https://github.com/user-attachments/assets/f7010ffa-56f3-4bd0-8fee-a61c94b89181" width="30" height="20"> GoodbyeDPI Arka Planda Kullanma | Terminal Penceresi Gözükmez
 
 Bu proje, [GoodbyeDPI](https://github.com/ValdikSS/GoodbyeDPI)'yi arka planda gizli bir pencerede çalıştırmak için bir launcher sağlar. Sağlanan betik, GoodbyeDPI'yi komut istemi penceresi olmadan sessiz bir şekilde çalıştırmak için PowerShell kullanır. Bu sayede, DPI tabanlı sansürleri aşarken herhangi bir komut penceresi görüntülenmez.
 
